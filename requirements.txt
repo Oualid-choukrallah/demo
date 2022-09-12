@@ -1,0 +1,5 @@
+deepface==0.0.75
+Pillow==9.2.0
+retina_face==0.0.12
+retinaface==1.1.1
+streamlit==1.11.1
